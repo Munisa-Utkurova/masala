@@ -1,1 +1,1 @@
-print()
+print("munisa keldi ham")
